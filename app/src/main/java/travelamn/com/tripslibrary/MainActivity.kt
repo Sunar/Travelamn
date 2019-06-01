@@ -1,4 +1,4 @@
-package travelamn.com.travelslibrary
+package travelamn.com.tripslibrary
 
 import android.app.Activity
 import android.os.Bundle
