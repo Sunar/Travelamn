@@ -1,4 +1,4 @@
-package travelamn.com.travelslibrary
+package travelamn.com.tripslibrary
 
 import org.junit.Test
 
