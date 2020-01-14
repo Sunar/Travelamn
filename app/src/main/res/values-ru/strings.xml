@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Travels Library</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Настройки</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="nav_trips_title">My trips</string>
-    <string name="nav_gallery_title">Photos</string>
-    <string name="nav_documents_title">Documents</string>
+    <string name="nav_trips_title">Мои поездки</string>
+    <string name="nav_gallery_title">Фотографии</string>
+    <string name="nav_documents_title">Документы</string>
 </resources>
