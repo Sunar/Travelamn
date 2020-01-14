@@ -9,7 +9,7 @@ import travelamn.com.tripslibrary.ui.tripslist.TripsListFragment
 /**
  * Created by Ilnar on 14,Jan,2020
  */
-object SectionsController {
+object SectionsFactory {
 
     val sectionNames =
         listOf(R.string.nav_trips_title, R.string.nav_gallery_title, R.string.nav_documents_title)
